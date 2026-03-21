@@ -1,4 +1,4 @@
-A WIP game inspired by Snake where you free Pebokins to add them to your parade and use them to fight enemies!
+A WIP game inspired by Snake where you free pebokins to add them to your parade and use them to fight enemies!
 
 Created with the [Godot](https://godotengine.org/) game engine.
 
